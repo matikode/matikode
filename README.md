@@ -21,7 +21,7 @@ Soy el fundador de **MatiWebs**, donde combino mi formación en ingeniería info
 - 🔭 Actualmente trabajando en: **Vital ID** (Tecnología NFC + Salud) y **Memoria Viva**.
 - 💼 Servicios: Desarrollo tiendas Shopify y Web Apps a medida para clientes.
 - 🌱 Aprendiendo: Arquitecturas Cloud y optimización de rendimiento web.
-- ⚡ Dato curioso: ¡Tengo un Chevrolet Spark que ha sobrevivido a todo! 🚗
+  
 
 ---
 
